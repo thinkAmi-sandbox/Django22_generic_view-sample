@@ -1,0 +1,1 @@
+# Django22_generic_view-sample
